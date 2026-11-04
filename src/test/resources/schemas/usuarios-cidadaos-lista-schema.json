@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UsuariosCidadaosListaSchema",
+  "description": "Contrato JSON Schema para listagem de Usuários Cidadãos",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "nome",
+      "email",
+      "cpf_hash",
+      "endereco",
+      "pontuacao_recompensas",
+      "nivel_engajamento",
+      "historico_descarte"
+    ]
+  }
+}

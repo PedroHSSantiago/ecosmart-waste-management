@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CooperativasParceirasListaSchema",
+  "description": "Contrato JSON Schema para listagem de Cooperativas Parceiras",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "codigo_cooperativa",
+      "nome_cooperativa",
+      "cnpj",
+      "responsavel_legal",
+      "endereco",
+      "tipos_material_aceitos",
+      "capacidade_processamento_mensal_kg",
+      "num_cooperados",
+      "contrato_municipal"
+    ]
+  }
+}

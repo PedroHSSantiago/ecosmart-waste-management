@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ColetaAgendadaSchema",
+  "description": "Contrato JSON Schema para Ordem de Serviço e Rota de Coleta (Pilar Governança/Operacional ESG)",
+  "type": "object",
+  "required": [
+    "id_rota",
+    "caminhao",
+    "pontos_atendidos",
+    "data_hora_agendada",
+    "status",
+    "tipo_residuo_alvo",
+    "distancia_km_estimada",
+    "emissao_co2_estimada_kg"
+  ],
+  "properties": {
+    "id_rota": {
+      "type": "string",
+      "minLength": 1
+    },
+    "caminhao": {
+      "type": "object",
+      "required": ["placa", "motorista", "capacidade_kg"],
+      "properties": {
+        "placa": { "type": "string" },
+        "motorista": { "type": "string" },
+        "capacidade_kg": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "pontos_atendidos": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" }
+    },
+    "data_hora_agendada": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": ["agendado", "em_andamento", "concluido", "cancelado"]
+    },
+    "tipo_residuo_alvo": { "type": "string" },
+    "distancia_km_estimada": { "type": "number", "minimum": 0 },
+    "emissao_co2_estimada_kg": { "type": "number", "minimum": 0 },
+    "observacoes": { "type": "string" },
+    "motivo_cancelamento": { "type": "string" },
+    "reagendado_para": { "type": "string" }
+  },
+  "additionalProperties": false
+}

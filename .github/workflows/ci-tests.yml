@@ -1,0 +1,35 @@
+name: EcoSmart ESG — Testes Automatizados BDD & API (CI/CD)
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+  workflow_dispatch:
+
+jobs:
+  automated-bdd-api-tests:
+    name: Cucumber BDD + RestAssured + JSON Schema
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código-fonte
+        uses: actions/checkout@v4
+
+      - name: Configurar Java 17 (Eclipse Temurin)
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+          cache: maven
+
+      - name: Executar Testes Automatizados BDD e Contrato de API
+        run: mvn clean test -B
+
+      - name: Publicar Relatório de Evidências Cucumber (HTML & JSON)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cucumber-bdd-test-reports
+          path: target/cucumber-reports/
+          retention-days: 30

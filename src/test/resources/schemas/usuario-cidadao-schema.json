@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UsuarioCidadaoSchema",
+  "description": "Contrato JSON Schema para Cidadão no Programa de Recompensas (Pilar Social ESG)",
+  "type": "object",
+  "required": [
+    "nome",
+    "email",
+    "cpf_hash",
+    "endereco",
+    "pontuacao_recompensas",
+    "nivel_engajamento",
+    "historico_descarte"
+  ],
+  "properties": {
+    "nome": { "type": "string", "minLength": 1 },
+    "email": { "type": "string", "minLength": 3 },
+    "cpf_hash": { "type": "string", "minLength": 1 },
+    "endereco": {
+      "type": "object",
+      "required": ["bairro", "cep"],
+      "properties": {
+        "bairro": { "type": "string" },
+        "cep": { "type": "string" },
+        "localizacao": {
+          "type": "object",
+          "required": ["type", "coordinates"],
+          "properties": {
+            "type": { "type": "string" },
+            "coordinates": {
+              "type": "array",
+              "items": { "type": "number" }
+            }
+          }
+        }
+      }
+    },
+    "pontuacao_recompensas": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "nivel_engajamento": {
+      "type": "string",
+      "enum": ["bronze", "prata", "ouro", "platina"]
+    },
+    "historico_descarte": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ponto_coleta_codigo", "tipo_residuo", "peso_kg", "pontos_ganhos"],
+        "properties": {
+          "data": { "type": "string" },
+          "ponto_coleta_codigo": { "type": "string" },
+          "tipo_residuo": { "type": "string" },
+          "peso_kg": { "type": "number", "minimum": 0 },
+          "pontos_ganhos": { "type": "integer", "minimum": 1 }
+        }
+      }
+    },
+    "data_cadastro": { "type": "string" },
+    "badges": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "preferencias_notificacao": {
+      "type": "object",
+      "properties": {
+        "email": { "type": "boolean" },
+        "sms": { "type": "boolean" }
+      }
+    }
+  },
+  "additionalProperties": false
+}

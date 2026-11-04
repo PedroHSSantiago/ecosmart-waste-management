@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ColetasAgendadasListaSchema",
+  "description": "Contrato JSON Schema para listagem de Coletas Agendadas",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id_rota",
+      "caminhao",
+      "pontos_atendidos",
+      "data_hora_agendada",
+      "status",
+      "tipo_residuo_alvo",
+      "distancia_km_estimada",
+      "emissao_co2_estimada_kg"
+    ]
+  }
+}

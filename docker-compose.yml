@@ -1,0 +1,39 @@
+version: "3.9"
+
+services:
+  ecosmart-mongodb:
+    image: mongo:7.0
+    container_name: ecosmart-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: ecosmart_db
+    volumes:
+      - ./docker/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+      - mongodb_data:/data/db
+    networks:
+      - ecosmart-network
+
+  ecosmart-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ecosmart-api
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_PROFILES_ACTIVE: default
+      SERVER_PORT: 8080
+    depends_on:
+      - ecosmart-mongodb
+    networks:
+      - ecosmart-network
+
+networks:
+  ecosmart-network:
+    driver: bridge
+
+volumes:
+  mongodb_data:

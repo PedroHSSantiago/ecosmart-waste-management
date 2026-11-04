@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PontoColetaSchema",
+  "description": "Contrato JSON Schema para um Ponto de Coleta Inteligente (Pilar Ambiental ESG)",
+  "type": "object",
+  "required": [
+    "codigo_ponto",
+    "tipo_residuo",
+    "localizacao",
+    "bairro",
+    "capacidade_litros",
+    "nivel_ocupacao_percentual",
+    "status"
+  ],
+  "properties": {
+    "codigo_ponto": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tipo_residuo": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "localizacao": {
+      "type": "object",
+      "required": ["type", "coordinates"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["Point"]
+        },
+        "coordinates": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "number"
+          }
+        }
+      }
+    },
+    "bairro": {
+      "type": "string",
+      "minLength": 1
+    },
+    "capacidade_litros": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "nivel_ocupacao_percentual": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "status": {
+      "type": "string",
+      "enum": ["ativo", "manutencao", "inativo"]
+    },
+    "data_instalacao": {
+      "type": "string"
+    },
+    "sensor_iot": {
+      "type": "object",
+      "required": ["modelo", "bateria_percentual"],
+      "properties": {
+        "modelo": {
+          "type": "string"
+        },
+        "bateria_percentual": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "temperatura_c": {
+          "type": "number"
+        },
+        "ultima_leitura": {
+          "type": "string"
+        }
+      }
+    },
+    "campanha_educativa": {
+      "type": "boolean"
+    },
+    "alerta_incendio": {
+      "type": "boolean"
+    },
+    "ultima_manutencao": {
+      "type": "string"
+    },
+    "data_desativacao": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

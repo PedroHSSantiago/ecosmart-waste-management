@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AuditoriasAmbientaisListaSchema",
+  "description": "Contrato JSON Schema para listagem de Auditorias Ambientais",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "codigo_auditoria",
+      "periodo_referencia",
+      "metrica",
+      "valor_medido",
+      "unidade",
+      "meta_municipal",
+      "percentual_atingimento",
+      "responsavel_auditoria",
+      "status_conformidade"
+    ]
+  }
+}

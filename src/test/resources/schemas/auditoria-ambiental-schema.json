@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AuditoriaAmbientalSchema",
+  "description": "Contrato JSON Schema para Auditoria e Conformidade Ambiental (Pilar Governança ESG)",
+  "type": "object",
+  "required": [
+    "codigo_auditoria",
+    "periodo_referencia",
+    "metrica",
+    "valor_medido",
+    "unidade",
+    "meta_municipal",
+    "percentual_atingimento",
+    "responsavel_auditoria",
+    "status_conformidade"
+  ],
+  "properties": {
+    "codigo_auditoria": { "type": "string", "minLength": 1 },
+    "periodo_referencia": { "type": "string", "minLength": 1 },
+    "metrica": { "type": "string", "minLength": 1 },
+    "valor_medido": { "type": "number", "minimum": 0 },
+    "unidade": { "type": "string", "minLength": 1 },
+    "meta_municipal": { "type": "number", "minimum": 0 },
+    "percentual_atingimento": { "type": "number" },
+    "responsavel_auditoria": { "type": "string", "minLength": 1 },
+    "status_conformidade": {
+      "type": "string",
+      "enum": ["conforme", "nao_conforme"]
+    },
+    "plano_acao_corretiva": {
+      "type": "object",
+      "required": ["descricao", "prazo"],
+      "properties": {
+        "descricao": { "type": "string", "minLength": 1 },
+        "prazo": { "type": "string", "minLength": 1 }
+      }
+    },
+    "evidencia_url": { "type": "string" },
+    "observacoes": { "type": "string" }
+  },
+  "additionalProperties": false
+}

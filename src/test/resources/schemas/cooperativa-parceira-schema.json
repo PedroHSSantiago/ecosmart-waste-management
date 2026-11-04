@@ -1,0 +1,75 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CooperativaParceiraSchema",
+  "description": "Contrato JSON Schema para Cooperativa Parceira de Reciclagem (Pilar Social/Governança ESG)",
+  "type": "object",
+  "required": [
+    "codigo_cooperativa",
+    "nome_cooperativa",
+    "cnpj",
+    "responsavel_legal",
+    "endereco",
+    "tipos_material_aceitos",
+    "capacidade_processamento_mensal_kg",
+    "num_cooperados",
+    "contrato_municipal"
+  ],
+  "properties": {
+    "codigo_cooperativa": { "type": "string", "minLength": 1 },
+    "nome_cooperativa": { "type": "string", "minLength": 1 },
+    "cnpj": { "type": "string", "minLength": 1 },
+    "responsavel_legal": { "type": "string", "minLength": 1 },
+    "endereco": {
+      "type": "object",
+      "required": ["bairro", "cidade", "uf"],
+      "properties": {
+        "bairro": { "type": "string" },
+        "cidade": { "type": "string" },
+        "uf": { "type": "string" }
+      }
+    },
+    "tipos_material_aceitos": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" }
+    },
+    "capacidade_processamento_mensal_kg": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "volume_processado_historico": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["mes_ano", "volume_kg", "receita_gerada_reais"],
+        "properties": {
+          "mes_ano": { "type": "string" },
+          "volume_kg": { "type": "integer" },
+          "receita_gerada_reais": { "type": "number" }
+        }
+      }
+    },
+    "num_cooperados": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "contrato_municipal": {
+      "type": "object",
+      "required": ["numero", "vigencia_inicio", "vigencia_fim", "valor_repasse_mensal"],
+      "properties": {
+        "numero": { "type": "string" },
+        "vigencia_inicio": { "type": "string" },
+        "vigencia_fim": { "type": "string" },
+        "valor_repasse_mensal": { "type": "number", "minimum": 0 }
+      }
+    },
+    "certificacoes": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "avaliacao_desempenho": {
+      "type": "number"
+    }
+  },
+  "additionalProperties": false
+}
