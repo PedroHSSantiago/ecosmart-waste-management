@@ -13,7 +13,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
-<< /Length 22698 >>
+<< /Length 31970 >>
 stream
 0.020 0.310 0.230 rg
 32.00 705.89 531.28 108.00 re f
@@ -32,382 +32,704 @@ BT /F2 12.00 Tf 0.020 0.370 0.270 rg 32.00 683.89 Td (1. Integração ESG e Cobert
 32.00 678.09 531.28 1.80 re f
 BT /F1 8.80 Tf 0.120 0.160 0.230 rg 32.00 661.89 Td (A suíte automatizada valida todas as 5 APIs REST do ecossistema EcoSmart segundo os pilares Ambiental, Social e Governança:) Tj ET
 0.020 0.370 0.270 rg
-32.00 637.89 531.28 16.00 re f
-BT /F2 8.00 Tf 1.000 1.000 1.000 rg 36.00 642.39 Td (Pilar ESG) Tj ET
-BT /F2 8.00 Tf 1.000 1.000 1.000 rg 124.00 642.39 Td (API / Endpoint) Tj ET
-BT /F2 8.00 Tf 1.000 1.000 1.000 rg 236.00 642.39 Td (Regras de Negócio e Comportamentos Validados nos Testes) Tj ET
+0.60 w 0.020 0.370 0.270 RG
+32.00 637.89 531.28 16.00 re B
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 36.00 642.69 Td (Pilar ESG) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 126.00 642.69 Td (API / Endpoint) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 246.00 642.69 Td (Regras de Negócio e Comportamentos Validados nos Testes) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 622.89 531.28 15.00 re B
-BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 627.39 Td (Ambiental) Tj ET
-BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 627.39 Td (/api/pontos-coleta) Tj ET
-BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 627.39 Td (Lixeiras inteligentes com sensores IoT \(ocupação 0-100%, bateria\) e prevenção de transbordo.) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+122.00 622.89 0.01 15.00 re S
+0.30 w 0.850 0.890 0.930 RG
+242.00 622.89 0.01 15.00 re S
+BT /F2 7.10 Tf 0.040 0.350 0.250 rg 36.00 627.69 Td (Ambiental) Tj ET
+BT /F3 6.30 Tf 0.100 0.200 0.350 rg 126.00 627.69 Td (/api/pontos-coleta) Tj ET
+BT /F1 6.80 Tf 0.150 0.200 0.250 rg 246.00 627.69 Td (Lixeiras inteligentes com sensores IoT \(ocupação 0-100%, bateria\) e prevenção de transbordo.) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 607.89 531.28 15.00 re B
-BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 612.39 Td (Governança / Oper.) Tj ET
-BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 612.39 Td (/api/coletas-agendadas) Tj ET
-BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 612.39 Td (Rotas de caminhões com emissão de CO2, bloqueio de pontos inativos e motivo de cancelamento.) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+122.00 607.89 0.01 15.00 re S
+0.30 w 0.850 0.890 0.930 RG
+242.00 607.89 0.01 15.00 re S
+BT /F2 7.10 Tf 0.040 0.350 0.250 rg 36.00 612.69 Td (Governança / Oper.) Tj ET
+BT /F3 6.30 Tf 0.100 0.200 0.350 rg 126.00 612.69 Td (/api/coletas-agendadas) Tj ET
+BT /F1 6.80 Tf 0.150 0.200 0.250 rg 246.00 612.69 Td (Rotas de caminhões com emissão de CO2, bloqueio de pontos inativos e motivo de cancelamento.) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 592.89 531.28 15.00 re B
-BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 597.39 Td (Social) Tj ET
-BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 597.39 Td (/api/usuarios-cidadaos) Tj ET
-BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 597.39 Td (Gamificação e recompensas para cidadãos por descarte reciclável \(bronze, prata, ouro, platina\).) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+122.00 592.89 0.01 15.00 re S
+0.30 w 0.850 0.890 0.930 RG
+242.00 592.89 0.01 15.00 re S
+BT /F2 7.10 Tf 0.040 0.350 0.250 rg 36.00 597.69 Td (Social) Tj ET
+BT /F3 6.30 Tf 0.100 0.200 0.350 rg 126.00 597.69 Td (/api/usuarios-cidadaos) Tj ET
+BT /F1 6.80 Tf 0.150 0.200 0.250 rg 246.00 597.69 Td (Gamificação e recompensas para cidadãos por descarte reciclável \(bronze, prata, ouro, platina\).) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 577.89 531.28 15.00 re B
-BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 582.39 Td (Social / Governança) Tj ET
-BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 582.39 Td (/api/cooperativas-parceiras) Tj ET
-BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 582.39 Td (Gestão de cooperativas de catadores conveniadas, capacidade mensal e validação de CNPJ único.) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+122.00 577.89 0.01 15.00 re S
+0.30 w 0.850 0.890 0.930 RG
+242.00 577.89 0.01 15.00 re S
+BT /F2 7.10 Tf 0.040 0.350 0.250 rg 36.00 582.69 Td (Social / Governança) Tj ET
+BT /F3 6.30 Tf 0.100 0.200 0.350 rg 126.00 582.69 Td (/api/cooperativas-parceiras) Tj ET
+BT /F1 6.80 Tf 0.150 0.200 0.250 rg 246.00 582.69 Td (Gestão de cooperativas de catadores conveniadas, capacidade mensal e validação de CNPJ único.) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 562.89 531.28 15.00 re B
-BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 567.39 Td (Governança / Compl.) Tj ET
-BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 567.39 Td (/api/auditorias-ambientais) Tj ET
-BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 567.39 Td (Auditoria de metas ambientais exigindo plano_acao_corretiva obrigatório para status nao_conforme.) Tj ET
-BT /F2 12.00 Tf 0.020 0.370 0.270 rg 32.00 540.89 Td (2. Matriz Completa dos 30 Cenários BDD em Gherkin \(# language: pt\)) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+122.00 562.89 0.01 15.00 re S
+0.30 w 0.850 0.890 0.930 RG
+242.00 562.89 0.01 15.00 re S
+BT /F2 7.10 Tf 0.040 0.350 0.250 rg 36.00 567.69 Td (Governança / Compl.) Tj ET
+BT /F3 6.30 Tf 0.100 0.200 0.350 rg 126.00 567.69 Td (/api/auditorias-ambientais) Tj ET
+BT /F1 6.80 Tf 0.150 0.200 0.250 rg 246.00 567.69 Td (Auditoria de metas ambientais exigindo plano_acao_corretiva obrigatório para status nao_conforme.) Tj ET
+BT /F2 12.00 Tf 0.020 0.370 0.270 rg 32.00 540.89 Td (2. Matriz Completa dos 30 Cenários BDD em Gherkin) Tj ET
 0.060 0.730 0.510 rg
 32.00 535.09 531.28 1.80 re f
 BT /F1 8.60 Tf 0.120 0.160 0.230 rg 32.00 518.89 Td (Embora o requisito mínimo exija 3 cenários, foram implementados 30 cenários BDD \(180 passos\) cobrindo sucesso e falha:) Tj ET
 0.020 0.370 0.270 rg
-32.00 496.89 531.28 16.00 re f
-BT /F2 7.60 Tf 1.000 1.000 1.000 rg 35.00 501.39 Td (#) Tj ET
-BT /F2 7.60 Tf 1.000 1.000 1.000 rg 57.00 501.39 Td (Arquivo .feature) Tj ET
-BT /F2 7.60 Tf 1.000 1.000 1.000 rg 150.00 501.39 Td (Cenário BDD \(Dado / Quando / Então\)) Tj ET
-BT /F2 7.60 Tf 1.000 1.000 1.000 rg 380.00 501.39 Td (Tipo) Tj ET
-BT /F2 7.60 Tf 1.000 1.000 1.000 rg 430.00 501.39 Td (Status) Tj ET
-BT /F2 7.60 Tf 1.000 1.000 1.000 rg 483.00 501.39 Td (Contrato JSON Schema) Tj ET
+0.60 w 0.020 0.370 0.270 RG
+32.00 496.89 531.28 16.00 re B
+BT /F2 7.20 Tf 1.000 1.000 1.000 rg 36.00 501.69 Td (#) Tj ET
+BT /F2 7.20 Tf 1.000 1.000 1.000 rg 56.00 501.69 Td (Arquivo .feature) Tj ET
+BT /F2 7.20 Tf 1.000 1.000 1.000 rg 144.00 501.69 Td (Cenário BDD \(Dado / Quando / Então\)) Tj ET
+BT /F2 7.20 Tf 1.000 1.000 1.000 rg 346.00 501.69 Td (Tipo) Tj ET
+BT /F2 7.20 Tf 1.000 1.000 1.000 rg 388.00 501.69 Td (Status) Tj ET
+BT /F2 7.20 Tf 1.000 1.000 1.000 rg 442.00 501.69 Td (Contrato JSON Schema) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 482.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 486.69 Td (01) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 486.69 Td (01_pontos_coleta) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 486.69 Td (Consultar ponto ativo com sensor IoT \(PC-001\)) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 486.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 482.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 482.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 482.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 482.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 482.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 486.89 Td (01) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 486.89 Td (01_pontos_coleta) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 486.89 Td (Consultar ponto ativo com sensor IoT \(PC-001\)) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 486.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 484.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 487.09 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 486.69 Td (ponto-coleta-schema.json) Tj ET
+388.00 484.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 487.29 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 486.89 Td (ponto-coleta-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 467.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 472.19 Td (02) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 472.19 Td (01_pontos_coleta) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 472.19 Td (Filtrar pontos ativos com ocupação crítica > 80%) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 472.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 467.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 467.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 467.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 467.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 467.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 472.39 Td (02) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 472.39 Td (01_pontos_coleta) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 472.39 Td (Filtrar pontos ativos com ocupação crítica > 80%) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 472.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 470.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 472.59 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 472.19 Td (pontos-coleta-lista-schema) Tj ET
+388.00 470.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 472.79 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 472.39 Td (pontos-coleta-lista-schema) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 453.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 457.69 Td (03) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 457.69 Td (01_pontos_coleta) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 457.69 Td (Cadastrar novo ponto de coleta inteligente \(PC-011\)) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 457.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 453.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 453.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 453.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 453.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 453.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 457.89 Td (03) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 457.89 Td (01_pontos_coleta) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 457.89 Td (Cadastrar novo ponto de coleta inteligente \(PC-011\)) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 457.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 455.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 458.09 Td (201 Created) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 457.69 Td (ponto-coleta-schema.json) Tj ET
+388.00 455.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 458.29 Td (201 Created) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 457.89 Td (ponto-coleta-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 438.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 443.19 Td (04) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 443.19 Td (01_pontos_coleta) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 443.19 Td (Atualizar leitura de telemetria e ocupação IoT) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 443.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 438.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 438.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 438.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 438.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 438.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 443.39 Td (04) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 443.39 Td (01_pontos_coleta) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 443.39 Td (Atualizar leitura de telemetria e ocupação IoT) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 443.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 441.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 443.59 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 443.19 Td (ponto-coleta-schema.json) Tj ET
+388.00 441.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 443.79 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 443.39 Td (ponto-coleta-schema.json) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 424.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 428.69 Td (05) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 428.69 Td (01_pontos_coleta) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 428.69 Td (Remover ponto de coleta desativado \(PC-010\)) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 428.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 424.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 424.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 424.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 424.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 424.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 428.89 Td (05) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 428.89 Td (01_pontos_coleta) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 428.89 Td (Remover ponto de coleta desativado \(PC-010\)) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 428.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 426.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 429.09 Td (204 NoCont) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 428.69 Td (-) Tj ET
+388.00 426.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 429.29 Td (204 NoCont) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 428.89 Td (-) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 409.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 414.19 Td (06) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 414.19 Td (01_pontos_coleta) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 414.19 Td (Falha ao cadastrar ponto com ocupação > 100%) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 414.19 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 409.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 409.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 409.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 409.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 409.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 414.39 Td (06) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 414.39 Td (01_pontos_coleta) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 414.39 Td (Falha ao cadastrar ponto com ocupação > 100%) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 414.39 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 412.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 414.59 Td (400 BadReq) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 414.19 Td (erro-api-schema.json) Tj ET
+388.00 412.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 414.79 Td (400 BadReq) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 414.39 Td (erro-api-schema.json) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 395.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 399.69 Td (07) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 399.69 Td (01_pontos_coleta) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 399.69 Td (Falha ao buscar ponto com código inexistente) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 399.69 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 395.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 395.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 395.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 395.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 395.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 399.89 Td (07) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 399.89 Td (01_pontos_coleta) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 399.89 Td (Falha ao buscar ponto com código inexistente) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 399.89 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 397.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 400.09 Td (404 NotFnd) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 399.69 Td (erro-api-schema.json) Tj ET
+388.00 397.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 400.29 Td (404 NotFnd) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 399.89 Td (erro-api-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 380.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 385.19 Td (08) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 385.19 Td (02_coletas_agendadas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 385.19 Td (Listar rotas de coleta com status agendado) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 385.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 380.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 380.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 380.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 380.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 380.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 385.39 Td (08) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 385.39 Td (02_coletas_agendadas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 385.39 Td (Listar rotas de coleta com status agendado) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 385.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 383.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 385.59 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 385.19 Td (coletas-agendadas-lista) Tj ET
+388.00 383.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 385.79 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 385.39 Td (coletas-agendadas-lista) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 366.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 370.69 Td (09) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 370.69 Td (02_coletas_agendadas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 370.69 Td (Agendar nova rota seletiva com estimativa de CO2) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 370.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 366.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 366.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 366.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 366.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 366.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 370.89 Td (09) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 370.89 Td (02_coletas_agendadas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 370.89 Td (Agendar nova rota seletiva com estimativa de CO2) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 370.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 368.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 371.09 Td (201 Created) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 370.69 Td (coleta-agendada-schema) Tj ET
+388.00 368.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 371.29 Td (201 Created) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 370.89 Td (coleta-agendada-schema) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 351.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 356.19 Td (10) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 356.19 Td (02_coletas_agendadas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 356.19 Td (Concluir rota de coleta em andamento \(ROTA-002\)) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 356.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 351.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 351.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 351.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 351.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 351.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 356.39 Td (10) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 356.39 Td (02_coletas_agendadas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 356.39 Td (Concluir rota de coleta em andamento \(ROTA-002\)) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 356.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 354.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 356.59 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 356.19 Td (coleta-agendada-schema) Tj ET
+388.00 354.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 356.79 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 356.39 Td (coleta-agendada-schema) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 337.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 341.69 Td (11) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 341.69 Td (02_coletas_agendadas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 341.69 Td (Consultar detalhes de rota específica por ID) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 341.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 337.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 337.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 337.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 337.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 337.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 341.89 Td (11) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 341.89 Td (02_coletas_agendadas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 341.89 Td (Consultar detalhes de rota específica por ID) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 341.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 339.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 342.09 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 341.69 Td (coleta-agendada-schema) Tj ET
+388.00 339.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 342.29 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 341.89 Td (coleta-agendada-schema) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 322.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 327.19 Td (12) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 327.19 Td (02_coletas_agendadas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 327.19 Td (Remover rota de coleta cancelada \(ROTA-004\)) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 327.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 322.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 322.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 322.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 322.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 322.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 327.39 Td (12) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 327.39 Td (02_coletas_agendadas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 327.39 Td (Remover rota de coleta cancelada \(ROTA-004\)) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 327.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 325.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 327.59 Td (204 NoCont) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 327.19 Td (-) Tj ET
+388.00 325.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 327.79 Td (204 NoCont) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 327.39 Td (-) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 308.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 312.69 Td (13) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 312.69 Td (02_coletas_agendadas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 312.69 Td (Falha ao cancelar rota sem motivo obrigatório) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 312.69 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 308.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 308.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 308.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 308.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 308.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 312.89 Td (13) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 312.89 Td (02_coletas_agendadas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 312.89 Td (Falha ao cancelar rota sem motivo obrigatório) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 312.89 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 310.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 313.09 Td (400 BadReq) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 312.69 Td (erro-api-schema.json) Tj ET
+388.00 310.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 313.29 Td (400 BadReq) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 312.89 Td (erro-api-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 293.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 298.19 Td (14) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 298.19 Td (02_coletas_agendadas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 298.19 Td (Falha ao agendar rota com ponto de coleta inativo) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 298.19 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 293.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 293.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 293.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 293.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 293.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 298.39 Td (14) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 298.39 Td (02_coletas_agendadas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 298.39 Td (Falha ao agendar rota com ponto de coleta inativo) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 298.39 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 296.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 298.59 Td (400 BadReq) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 298.19 Td (erro-api-schema.json) Tj ET
+388.00 296.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 298.79 Td (400 BadReq) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 298.39 Td (erro-api-schema.json) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 279.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 283.69 Td (15) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 283.69 Td (03_usuarios_cidadaos) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 283.69 Td (Consultar cidadãos com pontuação > 500 pontos) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 283.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 279.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 279.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 279.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 279.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 279.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 283.89 Td (15) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 283.89 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 283.89 Td (Consultar cidadãos com pontuação > 500 pontos) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 283.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 281.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 284.09 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 283.69 Td (usuarios-cidadaos-lista) Tj ET
+388.00 281.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 284.29 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 283.89 Td (usuarios-cidadaos-lista) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 264.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 269.19 Td (16) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 269.19 Td (03_usuarios_cidadaos) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 269.19 Td (Registrar descarte reciclável e somar pontos) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 269.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 264.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 264.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 264.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 264.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 264.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 269.39 Td (16) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 269.39 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 269.39 Td (Registrar descarte reciclável e somar pontos) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 269.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 267.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 269.59 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 269.19 Td (usuario-cidadao-schema) Tj ET
+388.00 267.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 269.79 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 269.39 Td (usuario-cidadao-schema) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 250.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 254.69 Td (17) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 254.69 Td (03_usuarios_cidadaos) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 254.69 Td (Cadastrar novo cidadão no programa de reciclagem) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 254.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 250.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 250.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 250.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 250.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 250.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 254.89 Td (17) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 254.89 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 254.89 Td (Cadastrar novo cidadão no programa de reciclagem) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 254.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 252.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 255.09 Td (201 Created) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 254.69 Td (usuario-cidadao-schema) Tj ET
+388.00 252.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 255.29 Td (201 Created) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 254.89 Td (usuario-cidadao-schema) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 235.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 240.19 Td (18) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 240.19 Td (03_usuarios_cidadaos) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 240.19 Td (Consultar perfil completo de cidadão por e-mail) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 240.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 235.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 235.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 235.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 235.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 235.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 240.39 Td (18) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 240.39 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 240.39 Td (Consultar perfil completo de cidadão por e-mail) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 240.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 238.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 240.59 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 240.19 Td (usuario-cidadao-schema) Tj ET
+388.00 238.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 240.79 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 240.39 Td (usuario-cidadao-schema) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 221.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 225.69 Td (19) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 225.69 Td (03_usuarios_cidadaos) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 225.69 Td (Falha ao descartar em ponto em manutenção) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 225.69 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 221.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 221.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 221.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 221.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 221.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 225.89 Td (19) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 225.89 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 225.89 Td (Falha ao descartar em ponto em manutenção) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 225.89 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 223.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 226.09 Td (400 BadReq) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 225.69 Td (erro-api-schema.json) Tj ET
+388.00 223.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 226.29 Td (400 BadReq) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 225.89 Td (erro-api-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 206.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 211.19 Td (20) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 211.19 Td (03_usuarios_cidadaos) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 211.19 Td (Falha ao buscar cidadão com e-mail inexistente) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 211.19 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 206.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 206.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 206.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 206.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 206.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 211.39 Td (20) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 211.39 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 211.39 Td (Falha ao buscar cidadão com e-mail inexistente) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 211.39 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 209.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 211.59 Td (404 NotFnd) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 211.19 Td (erro-api-schema.json) Tj ET
+388.00 209.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 211.79 Td (404 NotFnd) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 211.39 Td (erro-api-schema.json) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 192.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 196.69 Td (21) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 196.69 Td (04_cooperativas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 196.69 Td (Filtrar cooperativas de plástico \(> 10.000 kg\)) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 196.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 192.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 192.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 192.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 192.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 192.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 196.89 Td (21) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 196.89 Td (04_cooperativas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 196.89 Td (Filtrar cooperativas de plástico \(> 10.000 kg\)) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 196.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 194.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 197.09 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 196.69 Td (cooperativas-lista-schema) Tj ET
+388.00 194.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 197.29 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 196.89 Td (cooperativas-lista-schema) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 177.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 182.19 Td (22) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 182.19 Td (04_cooperativas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 182.19 Td (Cadastrar nova cooperativa parceira conveniada) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 182.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 177.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 177.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 177.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 177.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 177.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 182.39 Td (22) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 182.39 Td (04_cooperativas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 182.39 Td (Cadastrar nova cooperativa parceira conveniada) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 182.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 180.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 182.59 Td (201 Created) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 182.19 Td (cooperativa-schema.json) Tj ET
+388.00 180.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 182.79 Td (201 Created) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 182.39 Td (cooperativa-schema.json) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 163.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 167.69 Td (23) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 167.69 Td (04_cooperativas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 167.69 Td (Consultar cooperativa específica por código) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 167.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 163.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 163.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 163.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 163.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 163.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 167.89 Td (23) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 167.89 Td (04_cooperativas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 167.89 Td (Consultar cooperativa específica por código) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 167.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 165.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 168.09 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 167.69 Td (cooperativa-schema.json) Tj ET
+388.00 165.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 168.29 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 167.89 Td (cooperativa-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 148.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 153.19 Td (24) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 153.19 Td (04_cooperativas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 153.19 Td (Falha ao buscar cooperativa com código inexistente) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 153.19 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 148.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 148.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 148.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 148.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 148.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 153.39 Td (24) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 153.39 Td (04_cooperativas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 153.39 Td (Falha ao buscar cooperativa com código inexistente) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 153.39 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 151.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 153.59 Td (404 NotFnd) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 153.19 Td (erro-api-schema.json) Tj ET
+388.00 151.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 153.79 Td (404 NotFnd) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 153.39 Td (erro-api-schema.json) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 134.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 138.69 Td (25) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 138.69 Td (04_cooperativas) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 138.69 Td (Falha ao cadastrar cooperativa com CNPJ duplicado) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 138.69 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 134.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 134.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 134.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 134.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 134.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 138.89 Td (25) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 138.89 Td (04_cooperativas) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 138.89 Td (Falha ao cadastrar cooperativa com CNPJ duplicado) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 138.89 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 136.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 139.09 Td (409 Conflct) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 138.69 Td (erro-api-schema.json) Tj ET
+388.00 136.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 139.29 Td (409 Conflct) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 138.89 Td (erro-api-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 119.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 124.19 Td (26) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 124.19 Td (05_auditoria_amb) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 124.19 Td (Consultar auditorias não conformes e plano de ação) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 124.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 119.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 119.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 119.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 119.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 119.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 124.39 Td (26) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 124.39 Td (05_auditoria_amb) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 124.39 Td (Consultar auditorias não conformes e plano de ação) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 124.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 122.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 124.59 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 124.19 Td (auditorias-lista-schema) Tj ET
+388.00 122.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 124.79 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 124.39 Td (auditorias-lista-schema) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 105.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 109.69 Td (27) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 109.69 Td (05_auditoria_amb) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 109.69 Td (Registrar nova auditoria ambiental em conformidade) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 109.69 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 105.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 105.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 105.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 105.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 105.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 109.89 Td (27) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 109.89 Td (05_auditoria_amb) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 109.89 Td (Registrar nova auditoria ambiental em conformidade) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 109.89 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 107.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 110.09 Td (201 Created) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 109.69 Td (auditoria-schema.json) Tj ET
+388.00 107.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 110.29 Td (201 Created) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 109.89 Td (auditoria-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 90.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 95.19 Td (28) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 95.19 Td (05_auditoria_amb) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 95.19 Td (Consultar auditoria ambiental específica por código) Tj ET
-BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 95.19 Td (Positivo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 90.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 90.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 90.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 90.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 90.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 95.39 Td (28) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 95.39 Td (05_auditoria_amb) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 95.39 Td (Consultar auditoria ambiental específica por código) Tj ET
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 346.00 95.39 Td (Positivo) Tj ET
 0.860 0.980 0.900 rg
-429.00 93.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 95.59 Td (200 OK) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 95.19 Td (auditoria-schema.json) Tj ET
+388.00 93.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.080 0.450 0.220 rg 390.00 95.79 Td (200 OK) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 95.39 Td (auditoria-schema.json) Tj ET
 1.000 1.000 1.000 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 76.39 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 80.69 Td (29) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 80.69 Td (05_auditoria_amb) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 80.69 Td (Falha ao buscar auditoria com código inexistente) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 80.69 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 76.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 76.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 76.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 76.39 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 76.39 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 80.89 Td (29) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 80.89 Td (05_auditoria_amb) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 80.89 Td (Falha ao buscar auditoria com código inexistente) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 80.89 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 78.69 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 81.09 Td (404 NotFnd) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 80.69 Td (erro-api-schema.json) Tj ET
+388.00 78.69 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 81.29 Td (404 NotFnd) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 80.89 Td (erro-api-schema.json) Tj ET
 0.960 0.980 0.990 rg
-0.40 w 0.820 0.860 0.900 RG
+0.40 w 0.800 0.850 0.900 RG
 32.00 61.89 531.28 14.50 re B
-BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 66.19 Td (30) Tj ET
-BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 66.19 Td (05_auditoria_amb) Tj ET
-BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 66.19 Td (Falha compliance: auditoria não conforme sem plano) Tj ET
-BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 66.19 Td (Negativo) Tj ET
+0.30 w 0.850 0.890 0.930 RG
+52.00 61.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+140.00 61.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+342.00 61.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+384.00 61.89 0.01 14.50 re S
+0.30 w 0.850 0.890 0.930 RG
+438.00 61.89 0.01 14.50 re S
+BT /F2 6.90 Tf 0.200 0.250 0.300 rg 36.00 66.39 Td (30) Tj ET
+BT /F3 6.10 Tf 0.050 0.350 0.350 rg 56.00 66.39 Td (05_auditoria_amb) Tj ET
+BT /F1 6.90 Tf 0.100 0.150 0.200 rg 144.00 66.39 Td (Falha compliance: auditoria não conforme sem plano) Tj ET
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 346.00 66.39 Td (Negativo) Tj ET
 0.990 0.880 0.880 rg
-429.00 64.19 46.00 10.00 re f
-BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 66.59 Td (400 BadReq) Tj ET
-BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 66.19 Td (erro-api-schema.json) Tj ET
+388.00 64.19 46.00 10.00 re f
+BT /F2 6.50 Tf 0.700 0.120 0.120 rg 390.00 66.79 Td (400 BadReq) Tj ET
+BT /F3 6.10 Tf 0.250 0.300 0.380 rg 442.00 66.39 Td (erro-api-schema.json) Tj ET
 BT /F1 7.80 Tf 0.450 0.500 0.550 rg 32.00 19.89 Td (EcoSmart Waste Management - Documentação e Evidências de Testes Automatizados \(Página 1 de 3\)) Tj ET
 endstream
 endobj
@@ -668,15 +990,15 @@ xref
 0000000214 00000 n 
 0000000309 00000 n 
 0000000409 00000 n 
-0000023160 00000 n 
-0000023323 00000 n 
-0000031674 00000 n 
-0000031837 00000 n 
-0000040771 00000 n 
-0000040935 00000 n 
-0000041008 00000 n 
+0000032432 00000 n 
+0000032595 00000 n 
+0000040946 00000 n 
+0000041109 00000 n 
+0000050043 00000 n 
+0000050207 00000 n 
+0000050280 00000 n 
 trailer
 << /Size 13 /Root 12 0 R >>
 startxref
-41059
+50331
 %%EOF
