@@ -24,6 +24,19 @@ Funcionalidade: Auditoria e Conformidade Ambiental (Pilar Governança ESG)
     E o campo JSON "status_conformidade" deve ser igual a "conforme"
     E o campo decimal JSON "percentual_atingimento" deve ser igual a 125.0
 
+  Cenário: Consultar auditoria ambiental específica por código e validar contrato JSON Schema
+    Quando eu envio uma requisição GET para "/api/auditorias-ambientais/AUD-001"
+    Então o status code da resposta deve ser 200
+    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/auditoria-ambiental-schema.json"
+    E o campo JSON "metrica" deve ser igual a "reducao_emissao_co2"
+    E o campo JSON "status_conformidade" deve ser igual a "conforme"
+
+  Cenário: Falha ao buscar auditoria ambiental com código inexistente
+    Quando eu envio uma requisição GET para "/api/auditorias-ambientais/AUD-INEXISTENTE"
+    Então o status code da resposta deve ser 404
+    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json"
+    E o campo JSON "erro" deve ser igual a "Recurso Não Encontrado"
+
   Cenário: Falha de compliance ao registrar auditoria não conforme sem plano de ação corretiva
     Dado que eu possuo uma auditoria não conforme "AUD-006" abaixo da meta sem plano de ação corretiva
     Quando eu envio uma requisição POST para "/api/auditorias-ambientais" com o payload configurado

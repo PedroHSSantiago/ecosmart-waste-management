@@ -24,9 +24,9 @@ O **EcoSmart Waste Management** é uma plataforma backend para Cidades Inteligen
 
 ---
 
-## 2. Escrita dos Cenários de Teste BDD em Gherkin (23 Cenários)
+## 2. Escrita dos Cenários de Teste BDD em Gherkin (30 Cenários)
 
-Embora o requisito mínimo da atividade seja de **3 cenários BDD**, foram implementados **23 cenários BDD em português (`# language: pt`)**, cobrindo **100% das APIs do projeto**, incluindo caminhos felizes (sucesso) e cenários negativos (tratamento de falhas e regras de negócio ESG).
+Embora o requisito mínimo da atividade seja de **3 cenários BDD**, foram implementados **30 cenários BDD (180 passos) em português (`# language: pt`)**, cobrindo **100% das APIs e endpoints do projeto**, incluindo caminhos felizes (sucesso) e cenários negativos (tratamento de falhas e regras de negócio ESG).
 
 ### 2.1 Funcionalidade 1: Gestão de Pontos de Coleta Inteligentes (`01_pontos_coleta.feature`)
 
@@ -263,7 +263,7 @@ Funcionalidade: Auditoria e Conformidade Ambiental (Pilar Governança ESG)
 
 ## 3. Evidência da Execução Bem-Sucedida dos Testes (`mvn test`)
 
-Abaixo está o log real de execução via **Maven Surefire + JUnit 5 Platform Suite + Cucumber + RestAssured**, comprovando a aprovação de **100% dos 23 cenários (143 passos executados com zero falhas)**:
+Abaixo está o log real de execução via **Maven Surefire + JUnit 5 Platform Suite + Cucumber + RestAssured**, comprovando a aprovação de **100% dos 30 cenários (180 passos executados com zero falhas)**:
 
 ```text
 [INFO] -------------------------------------------------------
@@ -280,23 +280,23 @@ Abaixo está o log real de execução via **Maven Surefire + JUnit 5 Platform Su
  :: Spring Boot ::                (v3.2.5)
 
 INFO --- b.c.e.steps.CucumberSpringConfiguration : Starting CucumberSpringConfiguration using Java 17.0.20.1
-INFO --- o.s.b.w.embedded.tomcat.TomcatWebServer : Tomcat started on port 65190 (http) with context path ''
-INFO --- b.c.e.steps.CucumberSpringConfiguration : Started CucumberSpringConfiguration in 2.486 seconds
+INFO --- o.s.b.w.embedded.tomcat.TomcatWebServer : Tomcat started on port 65352 (http) with context path ''
+INFO --- b.c.e.steps.CucumberSpringConfiguration : Started CucumberSpringConfiguration in 2.417 seconds
 
-23 Scenarios (23 passed)
-143 Steps (143 passed)
-0m6,711s
+30 Scenarios (30 passed)
+180 Steps (180 passed)
+0m7,029s
 
-[INFO] Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.011 s -- in br.com.ecosmart.CucumberTestRunner
+[INFO] Tests run: 30, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.353 s -- in br.com.ecosmart.CucumberTestRunner
 [INFO] 
 [INFO] Results:
 [INFO] 
-[INFO] Tests run: 23, Failures: 0, Errors: 0, Skipped: 0
+[INFO] Tests run: 30, Failures: 0, Errors: 0, Skipped: 0
 [INFO] 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  11.448 s
+[INFO] Total time:  10.503 s
 [INFO] ------------------------------------------------------------------------
 ```
 
@@ -304,3 +304,4 @@ INFO --- b.c.e.steps.CucumberSpringConfiguration : Started CucumberSpringConfigu
 Ao executar `mvn test`, o relatório HTML interativo do Cucumber é gerado em:
 - `target/cucumber-reports/cucumber.html`
 - `target/cucumber-reports/cucumber.json`
+

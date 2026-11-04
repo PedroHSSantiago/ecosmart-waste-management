@@ -43,3 +43,4 @@ public class AuditoriaAmbientalController {
         return ResponseEntity.status(HttpStatus.CREATED).body(criada);
     }
 }
+

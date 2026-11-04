@@ -61,3 +61,4 @@ public class ColetaAgendadaController {
         return ResponseEntity.noContent().build();
     }
 }
+

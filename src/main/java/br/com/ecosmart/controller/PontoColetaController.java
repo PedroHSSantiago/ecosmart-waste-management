@@ -63,3 +63,4 @@ public class PontoColetaController {
         return ResponseEntity.noContent().build();
     }
 }
+

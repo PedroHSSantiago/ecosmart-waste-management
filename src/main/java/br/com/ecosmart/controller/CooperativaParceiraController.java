@@ -44,3 +44,4 @@ public class CooperativaParceiraController {
         return ResponseEntity.status(HttpStatus.CREATED).body(criada);
     }
 }
+

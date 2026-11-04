@@ -218,3 +218,4 @@ public class ColetaAgendada {
         this.reagendadoPara = reagendadoPara;
     }
 }
+

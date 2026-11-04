@@ -50,3 +50,4 @@ public class UsuarioCidadaoController {
         return ResponseEntity.ok(atualizado);
     }
 }
+

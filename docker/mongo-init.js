@@ -147,3 +147,4 @@ db.pontos_coleta.insertMany([
     data_desativacao: new Date("2026-08-15")
   }
 ]);
+

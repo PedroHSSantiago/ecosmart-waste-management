@@ -22,9 +22,23 @@ Funcionalidade: Gestão de Cooperativas Parceiras de Reciclagem (Pilar Social e 
     E o campo JSON "codigo_cooperativa" deve ser igual a "COOP-005"
     E o campo JSON "cnpj" deve ser igual a "99.888.777/0001-55"
 
+  Cenário: Consultar cooperativa parceira específica por código e validar contrato JSON Schema
+    Quando eu envio uma requisição GET para "/api/cooperativas-parceiras/COOP-001"
+    Então o status code da resposta deve ser 200
+    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/cooperativa-parceira-schema.json"
+    E o campo JSON "nome_cooperativa" deve ser igual a "Cooperativa Recicla Vida"
+    E o campo JSON "responsavel_legal" deve ser igual a "Marta Nogueira"
+
+  Cenário: Falha ao buscar cooperativa parceira com código inexistente
+    Quando eu envio uma requisição GET para "/api/cooperativas-parceiras/COOP-INEXISTENTE"
+    Então o status code da resposta deve ser 404
+    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json"
+    E o campo JSON "erro" deve ser igual a "Recurso Não Encontrado"
+
   Cenário: Falha ao cadastrar cooperativa com CNPJ já existente na base municipal
     Dado que eu possuo os dados válidos da nova cooperativa "COOP-009" com CNPJ "12.345.678/0001-01"
     Quando eu envio uma requisição POST para "/api/cooperativas-parceiras" com o payload configurado
     Então o status code da resposta deve ser 409
     E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json"
     E o campo JSON "erro" deve ser igual a "Conflito de Dados"
+

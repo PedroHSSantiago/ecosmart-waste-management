@@ -55,3 +55,4 @@ Funcionalidade: Gestão de Pontos de Coleta Inteligentes (Pilar Ambiental ESG)
     Então o status code da resposta deve ser 404
     E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json"
     E o campo JSON "erro" deve ser igual a "Recurso Não Encontrado"
+

@@ -48,3 +48,4 @@ public class GeoLocation {
         this.coordinates = coordinates;
     }
 }
+

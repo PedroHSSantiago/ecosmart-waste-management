@@ -312,3 +312,4 @@ public class UsuarioCidadao {
         this.preferenciasNotificacao = preferenciasNotificacao;
     }
 }
+

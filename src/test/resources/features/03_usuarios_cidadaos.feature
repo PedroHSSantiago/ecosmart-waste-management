@@ -36,8 +36,16 @@ Funcionalidade: Engajamento de Cidadãos e Programa de Recompensas (Pilar Social
     E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json"
     E o campo JSON "mensagem" deve conter "não está ativo para receber descartes"
 
+  Cenário: Consultar perfil completo de cidadão por e-mail e validar contrato JSON Schema
+    Quando eu envio uma requisição GET para "/api/usuarios-cidadaos/ana.ramos@email.com"
+    Então o status code da resposta deve ser 200
+    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/usuario-cidadao-schema.json"
+    E o campo JSON "nome" deve ser igual a "Ana Beatriz Ramos"
+    E o campo JSON "nivel_engajamento" deve ser igual a "ouro"
+
   Cenário: Falha ao buscar cidadão com e-mail não cadastrado
     Quando eu envio uma requisição GET para "/api/usuarios-cidadaos/nao.existe@email.com"
     Então o status code da resposta deve ser 404
     E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json"
     E o campo JSON "erro" deve ser igual a "Recurso Não Encontrado"
+

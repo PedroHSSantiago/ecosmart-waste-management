@@ -87,3 +87,4 @@ public class ApiErrorResponse {
         this.detalhes = detalhes;
     }
 }
+

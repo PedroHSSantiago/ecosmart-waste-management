@@ -75,7 +75,7 @@ ecosmart-waste-management/
 ## 📋 3. Cumprimento dos Requisitos Obrigatórios
 
 ### 3.1 Escrita de Cenários de Teste BDD (Gherkin)
-O requisito exige **no mínimo 3 cenários**. O projeto entrega **20 cenários BDD completos** escritos em português (`# language: pt` — `Dado` / `Quando` / `Então` / `E`), distribuídos em 5 arquivos `.feature`, cobrindo tanto **caminhos felizes (sucesso)** quanto **cenários negativos (tratamento de falhas)**:
+O requisito exige **no mínimo 3 cenários**. O projeto entrega **30 cenários BDD completos (180 passos)** escritos em português (`# language: pt` — `Dado` / `Quando` / `Então` / `E`), distribuídos em 5 arquivos `.feature`, cobrindo **100% dos endpoints** tanto em **caminhos felizes (sucesso)** quanto em **cenários negativos (tratamento de falhas)**:
 
 | Arquivo `.feature` | Cenário BDD | Tipo | Status Esperado | Contrato JSON Schema Validado |
 | :--- | :--- | :---: | :---: | :--- |
@@ -125,7 +125,7 @@ O requisito exige **no mínimo 3 cenários**. O projeto entrega **20 cenários B
    ```bash
    mvn clean test
    ```
-2. Ao final da execução, o console exibirá o resumo dos **23 cenários BDD (100% aprovados)** e gerará automaticamente os relatórios visuais de evidência em:
+2. Ao final da execução, o console exibirá o resumo dos **30 cenários BDD (180 passos — 100% aprovados)** e gerará automaticamente os relatórios visuais de evidência em:
    * **Relatório HTML interativo:** `target/cucumber-reports/cucumber.html`
    * **Relatório JSON:** `target/cucumber-reports/cucumber.json`
 
@@ -166,3 +166,4 @@ O projeto inclui o workflow `.github/workflows/ci-tests.yml`, que executa automa
 | `GET` | `/api/auditorias-ambientais` | Lista auditorias ambientais (filtro: `statusConformidade`) |
 | `GET` | `/api/auditorias-ambientais/{codigo}` | Consulta auditoria ambiental por código (ex.: `AUD-001`) |
 | `POST` | `/api/auditorias-ambientais` | Registra auditoria calculando atingimento e exigindo plano de ação se não conforme |
+

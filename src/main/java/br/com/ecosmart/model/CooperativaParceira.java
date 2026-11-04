@@ -338,3 +338,4 @@ public class CooperativaParceira {
         this.avaliacaoDesempenho = avaliacaoDesempenho;
     }
 }
+

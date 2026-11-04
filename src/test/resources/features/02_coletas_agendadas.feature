@@ -36,9 +36,21 @@ Funcionalidade: Gestão de Coletas Agendadas e Rotas Sustentáveis (Pilar Govern
     E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json"
     E o campo JSON "mensagem" deve conter "O motivo de cancelamento é obrigatório"
 
+  Cenário: Consultar detalhes de uma rota de coleta específica por ID e validar contrato JSON Schema
+    Quando eu envio uma requisição GET para "/api/coletas-agendadas/ROTA-001"
+    Então o status code da resposta deve ser 200
+    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/coleta-agendada-schema.json"
+    E o campo JSON "id_rota" deve ser igual a "ROTA-001"
+    E o campo JSON "caminhao.motorista" deve ser igual a "Carlos Andrade"
+
+  Cenário: Remover uma rota de coleta cancelada com sucesso
+    Quando eu envio uma requisição DELETE para "/api/coletas-agendadas/ROTA-004"
+    Então o status code da resposta deve ser 204
+
   Cenário: Falha ao agendar rota de coleta incluindo um ponto de coleta inativo
     Dado que eu possuo uma rota inválida "ROTA-999" vinculada ao ponto inativo "PC-010"
     Quando eu envio uma requisição POST para "/api/coletas-agendadas" com o payload configurado
     Então o status code da resposta deve ser 400
     E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json"
     E o campo JSON "mensagem" deve conter "Não é permitido agendar coleta para ponto inativo"
+
