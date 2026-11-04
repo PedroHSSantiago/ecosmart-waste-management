@@ -1,0 +1,682 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 22698 >>
+stream
+0.020 0.310 0.230 rg
+32.00 705.89 531.28 108.00 re f
+0.060 0.470 0.340 rg
+46.00 788.89 330.00 15.00 re f
+BT /F2 7.60 Tf 0.820 0.980 0.900 rg 52.00 793.39 Td (ATIVIDADE - DESAFIO DE TESTES AUTOMATIZADOS \(BDD, API & CONTRATO\)) Tj ET
+BT /F2 17.50 Tf 1.000 1.000 1.000 rg 46.00 771.89 Td (EcoSmart Waste Management \(ESG\)) Tj ET
+BT /F1 10.20 Tf 0.850 0.960 0.910 rg 46.00 755.89 Td (Sistema Inteligente de Gestão de Resíduos e Reciclagem para Cidades Inteligentes) Tj ET
+0.010 0.220 0.160 rg
+46.00 713.89 503.28 33.00 re f
+BT /F2 8.30 Tf 0.650 0.950 0.820 rg 54.00 734.39 Td (Aluno: Pedro Henrique De Souza Santiago) Tj ET
+BT /F2 7.80 Tf 1.000 1.000 1.000 rg 277.00 734.39 Td (Stack: Java 17 | Spring Boot 3.2.5 | Cucumber 7.16 | RestAssured 5.4) Tj ET
+BT /F3 8.00 Tf 0.850 0.950 1.000 rg 54.00 720.39 Td (Repositório GitHub: https://github.com/PedroHSSantiago/ecosmart-waste-management) Tj ET
+BT /F2 12.00 Tf 0.020 0.370 0.270 rg 32.00 683.89 Td (1. Integração ESG e Cobertura das 5 APIs do Projeto) Tj ET
+0.060 0.730 0.510 rg
+32.00 678.09 531.28 1.80 re f
+BT /F1 8.80 Tf 0.120 0.160 0.230 rg 32.00 661.89 Td (A suíte automatizada valida todas as 5 APIs REST do ecossistema EcoSmart segundo os pilares Ambiental, Social e Governança:) Tj ET
+0.020 0.370 0.270 rg
+32.00 637.89 531.28 16.00 re f
+BT /F2 8.00 Tf 1.000 1.000 1.000 rg 36.00 642.39 Td (Pilar ESG) Tj ET
+BT /F2 8.00 Tf 1.000 1.000 1.000 rg 124.00 642.39 Td (API / Endpoint) Tj ET
+BT /F2 8.00 Tf 1.000 1.000 1.000 rg 236.00 642.39 Td (Regras de Negócio e Comportamentos Validados nos Testes) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 622.89 531.28 15.00 re B
+BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 627.39 Td (Ambiental) Tj ET
+BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 627.39 Td (/api/pontos-coleta) Tj ET
+BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 627.39 Td (Lixeiras inteligentes com sensores IoT \(ocupação 0-100%, bateria\) e prevenção de transbordo.) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 607.89 531.28 15.00 re B
+BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 612.39 Td (Governança / Oper.) Tj ET
+BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 612.39 Td (/api/coletas-agendadas) Tj ET
+BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 612.39 Td (Rotas de caminhões com emissão de CO2, bloqueio de pontos inativos e motivo de cancelamento.) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 592.89 531.28 15.00 re B
+BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 597.39 Td (Social) Tj ET
+BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 597.39 Td (/api/usuarios-cidadaos) Tj ET
+BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 597.39 Td (Gamificação e recompensas para cidadãos por descarte reciclável \(bronze, prata, ouro, platina\).) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 577.89 531.28 15.00 re B
+BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 582.39 Td (Social / Governança) Tj ET
+BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 582.39 Td (/api/cooperativas-parceiras) Tj ET
+BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 582.39 Td (Gestão de cooperativas de catadores conveniadas, capacidade mensal e validação de CNPJ único.) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 562.89 531.28 15.00 re B
+BT /F2 7.40 Tf 0.040 0.350 0.250 rg 36.00 567.39 Td (Governança / Compl.) Tj ET
+BT /F3 7.10 Tf 0.100 0.200 0.350 rg 124.00 567.39 Td (/api/auditorias-ambientais) Tj ET
+BT /F1 7.10 Tf 0.150 0.200 0.250 rg 236.00 567.39 Td (Auditoria de metas ambientais exigindo plano_acao_corretiva obrigatório para status nao_conforme.) Tj ET
+BT /F2 12.00 Tf 0.020 0.370 0.270 rg 32.00 540.89 Td (2. Matriz Completa dos 30 Cenários BDD em Gherkin \(# language: pt\)) Tj ET
+0.060 0.730 0.510 rg
+32.00 535.09 531.28 1.80 re f
+BT /F1 8.60 Tf 0.120 0.160 0.230 rg 32.00 518.89 Td (Embora o requisito mínimo exija 3 cenários, foram implementados 30 cenários BDD \(180 passos\) cobrindo sucesso e falha:) Tj ET
+0.020 0.370 0.270 rg
+32.00 496.89 531.28 16.00 re f
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 35.00 501.39 Td (#) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 57.00 501.39 Td (Arquivo .feature) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 150.00 501.39 Td (Cenário BDD \(Dado / Quando / Então\)) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 380.00 501.39 Td (Tipo) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 430.00 501.39 Td (Status) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 483.00 501.39 Td (Contrato JSON Schema) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 482.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 486.69 Td (01) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 486.69 Td (01_pontos_coleta) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 486.69 Td (Consultar ponto ativo com sensor IoT \(PC-001\)) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 486.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 484.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 487.09 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 486.69 Td (ponto-coleta-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 467.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 472.19 Td (02) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 472.19 Td (01_pontos_coleta) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 472.19 Td (Filtrar pontos ativos com ocupação crítica > 80%) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 472.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 470.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 472.59 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 472.19 Td (pontos-coleta-lista-schema) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 453.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 457.69 Td (03) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 457.69 Td (01_pontos_coleta) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 457.69 Td (Cadastrar novo ponto de coleta inteligente \(PC-011\)) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 457.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 455.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 458.09 Td (201 Created) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 457.69 Td (ponto-coleta-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 438.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 443.19 Td (04) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 443.19 Td (01_pontos_coleta) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 443.19 Td (Atualizar leitura de telemetria e ocupação IoT) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 443.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 441.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 443.59 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 443.19 Td (ponto-coleta-schema.json) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 424.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 428.69 Td (05) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 428.69 Td (01_pontos_coleta) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 428.69 Td (Remover ponto de coleta desativado \(PC-010\)) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 428.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 426.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 429.09 Td (204 NoCont) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 428.69 Td (-) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 409.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 414.19 Td (06) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 414.19 Td (01_pontos_coleta) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 414.19 Td (Falha ao cadastrar ponto com ocupação > 100%) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 414.19 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 412.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 414.59 Td (400 BadReq) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 414.19 Td (erro-api-schema.json) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 395.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 399.69 Td (07) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 399.69 Td (01_pontos_coleta) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 399.69 Td (Falha ao buscar ponto com código inexistente) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 399.69 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 397.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 400.09 Td (404 NotFnd) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 399.69 Td (erro-api-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 380.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 385.19 Td (08) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 385.19 Td (02_coletas_agendadas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 385.19 Td (Listar rotas de coleta com status agendado) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 385.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 383.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 385.59 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 385.19 Td (coletas-agendadas-lista) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 366.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 370.69 Td (09) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 370.69 Td (02_coletas_agendadas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 370.69 Td (Agendar nova rota seletiva com estimativa de CO2) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 370.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 368.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 371.09 Td (201 Created) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 370.69 Td (coleta-agendada-schema) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 351.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 356.19 Td (10) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 356.19 Td (02_coletas_agendadas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 356.19 Td (Concluir rota de coleta em andamento \(ROTA-002\)) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 356.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 354.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 356.59 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 356.19 Td (coleta-agendada-schema) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 337.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 341.69 Td (11) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 341.69 Td (02_coletas_agendadas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 341.69 Td (Consultar detalhes de rota específica por ID) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 341.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 339.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 342.09 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 341.69 Td (coleta-agendada-schema) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 322.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 327.19 Td (12) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 327.19 Td (02_coletas_agendadas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 327.19 Td (Remover rota de coleta cancelada \(ROTA-004\)) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 327.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 325.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 327.59 Td (204 NoCont) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 327.19 Td (-) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 308.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 312.69 Td (13) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 312.69 Td (02_coletas_agendadas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 312.69 Td (Falha ao cancelar rota sem motivo obrigatório) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 312.69 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 310.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 313.09 Td (400 BadReq) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 312.69 Td (erro-api-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 293.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 298.19 Td (14) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 298.19 Td (02_coletas_agendadas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 298.19 Td (Falha ao agendar rota com ponto de coleta inativo) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 298.19 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 296.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 298.59 Td (400 BadReq) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 298.19 Td (erro-api-schema.json) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 279.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 283.69 Td (15) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 283.69 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 283.69 Td (Consultar cidadãos com pontuação > 500 pontos) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 283.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 281.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 284.09 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 283.69 Td (usuarios-cidadaos-lista) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 264.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 269.19 Td (16) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 269.19 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 269.19 Td (Registrar descarte reciclável e somar pontos) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 269.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 267.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 269.59 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 269.19 Td (usuario-cidadao-schema) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 250.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 254.69 Td (17) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 254.69 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 254.69 Td (Cadastrar novo cidadão no programa de reciclagem) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 254.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 252.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 255.09 Td (201 Created) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 254.69 Td (usuario-cidadao-schema) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 235.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 240.19 Td (18) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 240.19 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 240.19 Td (Consultar perfil completo de cidadão por e-mail) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 240.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 238.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 240.59 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 240.19 Td (usuario-cidadao-schema) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 221.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 225.69 Td (19) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 225.69 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 225.69 Td (Falha ao descartar em ponto em manutenção) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 225.69 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 223.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 226.09 Td (400 BadReq) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 225.69 Td (erro-api-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 206.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 211.19 Td (20) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 211.19 Td (03_usuarios_cidadaos) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 211.19 Td (Falha ao buscar cidadão com e-mail inexistente) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 211.19 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 209.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 211.59 Td (404 NotFnd) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 211.19 Td (erro-api-schema.json) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 192.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 196.69 Td (21) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 196.69 Td (04_cooperativas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 196.69 Td (Filtrar cooperativas de plástico \(> 10.000 kg\)) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 196.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 194.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 197.09 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 196.69 Td (cooperativas-lista-schema) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 177.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 182.19 Td (22) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 182.19 Td (04_cooperativas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 182.19 Td (Cadastrar nova cooperativa parceira conveniada) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 182.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 180.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 182.59 Td (201 Created) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 182.19 Td (cooperativa-schema.json) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 163.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 167.69 Td (23) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 167.69 Td (04_cooperativas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 167.69 Td (Consultar cooperativa específica por código) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 167.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 165.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 168.09 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 167.69 Td (cooperativa-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 148.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 153.19 Td (24) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 153.19 Td (04_cooperativas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 153.19 Td (Falha ao buscar cooperativa com código inexistente) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 153.19 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 151.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 153.59 Td (404 NotFnd) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 153.19 Td (erro-api-schema.json) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 134.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 138.69 Td (25) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 138.69 Td (04_cooperativas) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 138.69 Td (Falha ao cadastrar cooperativa com CNPJ duplicado) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 138.69 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 136.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 139.09 Td (409 Conflct) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 138.69 Td (erro-api-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 119.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 124.19 Td (26) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 124.19 Td (05_auditoria_amb) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 124.19 Td (Consultar auditorias não conformes e plano de ação) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 124.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 122.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 124.59 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 124.19 Td (auditorias-lista-schema) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 105.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 109.69 Td (27) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 109.69 Td (05_auditoria_amb) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 109.69 Td (Registrar nova auditoria ambiental em conformidade) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 109.69 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 107.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 110.09 Td (201 Created) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 109.69 Td (auditoria-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 90.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 95.19 Td (28) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 95.19 Td (05_auditoria_amb) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 95.19 Td (Consultar auditoria ambiental específica por código) Tj ET
+BT /F2 7.20 Tf 0.080 0.450 0.220 rg 380.00 95.19 Td (Positivo) Tj ET
+0.860 0.980 0.900 rg
+429.00 93.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.080 0.450 0.220 rg 432.00 95.59 Td (200 OK) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 95.19 Td (auditoria-schema.json) Tj ET
+1.000 1.000 1.000 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 76.39 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 80.69 Td (29) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 80.69 Td (05_auditoria_amb) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 80.69 Td (Falha ao buscar auditoria com código inexistente) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 80.69 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 78.69 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 81.09 Td (404 NotFnd) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 80.69 Td (erro-api-schema.json) Tj ET
+0.960 0.980 0.990 rg
+0.40 w 0.820 0.860 0.900 RG
+32.00 61.89 531.28 14.50 re B
+BT /F2 7.30 Tf 0.200 0.250 0.300 rg 35.00 66.19 Td (30) Tj ET
+BT /F3 7.00 Tf 0.050 0.350 0.350 rg 57.00 66.19 Td (05_auditoria_amb) Tj ET
+BT /F1 7.30 Tf 0.100 0.150 0.200 rg 150.00 66.19 Td (Falha compliance: auditoria não conforme sem plano) Tj ET
+BT /F2 7.20 Tf 0.700 0.120 0.120 rg 380.00 66.19 Td (Negativo) Tj ET
+0.990 0.880 0.880 rg
+429.00 64.19 46.00 10.00 re f
+BT /F2 6.80 Tf 0.700 0.120 0.120 rg 432.00 66.59 Td (400 BadReq) Tj ET
+BT /F3 6.70 Tf 0.250 0.300 0.380 rg 483.00 66.19 Td (erro-api-schema.json) Tj ET
+BT /F1 7.80 Tf 0.450 0.500 0.550 rg 32.00 19.89 Td (EcoSmart Waste Management - Documentação e Evidências de Testes Automatizados \(Página 1 de 3\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 8299 >>
+stream
+BT /F2 12.00 Tf 0.020 0.370 0.270 rg 32.00 801.89 Td (3. Prints dos Cenários BDD em Gherkin e Contratos JSON Schema) Tj ET
+0.060 0.730 0.510 rg
+32.00 796.09 531.28 1.80 re f
+0.060 0.090 0.160 rg
+0.80 w 0.200 0.250 0.330 RG
+32.00 572.29 531.28 213.60 re B
+0.120 0.160 0.240 rg
+0.60 w 0.200 0.250 0.330 RG
+32.00 767.89 531.28 18.00 re B
+0.940 0.270 0.270 rg
+40.00 773.89 6.50 6.50 re f
+0.960 0.620 0.040 rg
+50.00 773.89 6.50 6.50 re f
+0.130 0.770 0.370 rg
+60.00 773.89 6.50 6.50 re f
+BT /F4 7.60 Tf 0.820 0.870 0.950 rg 74.00 773.39 Td (src/test/resources/features/01_pontos_coleta.feature) Tj ET
+BT /F3 7.50 Tf 0.580 0.640 0.720 rg 499.28 773.39 Td (Gherkin \(PT\)) Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 756.89 Td (# language: pt) Tj ET
+BT /F4 7.10 Tf 0.220 0.740 0.970 rg 42.00 746.09 Td (Funcionalidade: Gestão de Pontos de Coleta Inteligentes \(Pilar Ambiental ESG\)) Tj ET
+BT /F3 7.10 Tf 0.850 0.900 0.950 rg 42.00 735.29 Td (  Contexto: Dado que a base de dados do EcoSmart está inicializada com os registros padrões ESG) Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 724.49 Td () Tj ET
+BT /F4 7.10 Tf 0.220 0.740 0.970 rg 42.00 713.69 Td (  Cenário: Consultar ponto de coleta ativo equipado com sensor IoT e validar contrato JSON Schema) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 702.89 Td (    Quando eu envio uma requisição GET para "/api/pontos-coleta/PC-001") Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 692.09 Td (    Então o status code da resposta deve ser 200) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 681.29 Td (    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/ponto-coleta-schema.json") Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 670.49 Td (    E o campo JSON "codigo_ponto" deve ser igual a "PC-001") Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 659.69 Td (    E o campo JSON "sensor_iot.modelo" deve ser igual a "EcoSense X200") Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 648.89 Td () Tj ET
+BT /F4 7.10 Tf 0.980 0.750 0.140 rg 42.00 638.09 Td (  Cenário: Falha ao cadastrar ponto de coleta com nível de ocupação acima de 100 por cento) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 627.29 Td (    Dado que eu possuo um payload inválido de ponto de coleta "PC-999" com nivel_ocupacao_percentual igual a 150) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 616.49 Td (    Quando eu envio uma requisição POST para "/api/pontos-coleta" com o payload configurado) Tj ET
+BT /F3 7.10 Tf 0.980 0.750 0.140 rg 42.00 605.69 Td (    Então o status code da resposta deve ser 400) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 594.89 Td (    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json") Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 584.09 Td (    E o campo JSON "erro" deve ser igual a "Erro de Validação de Dados") Tj ET
+BT /F1 8.20 Tf 0.280 0.330 0.410 rg 38.00 561.29 Td (Print 1 - Especificação BDD em Gherkin cobrindo caminhos felizes \(200/201\) e tratamento de falhas \(400/404\) em 01_pontos_coleta.feature) Tj ET
+0.060 0.090 0.160 rg
+0.80 w 0.200 0.250 0.330 RG
+32.00 357.29 531.28 192.00 re B
+0.120 0.160 0.240 rg
+0.60 w 0.200 0.250 0.330 RG
+32.00 531.29 531.28 18.00 re B
+0.940 0.270 0.270 rg
+40.00 537.29 6.50 6.50 re f
+0.960 0.620 0.040 rg
+50.00 537.29 6.50 6.50 re f
+0.130 0.770 0.370 rg
+60.00 537.29 6.50 6.50 re f
+BT /F4 7.60 Tf 0.820 0.870 0.950 rg 74.00 536.79 Td (src/test/resources/features/05_auditoria_ambiental.feature) Tj ET
+BT /F3 7.50 Tf 0.580 0.640 0.720 rg 499.28 536.79 Td (Gherkin \(PT\)) Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 520.29 Td (# language: pt) Tj ET
+BT /F4 7.10 Tf 0.220 0.740 0.970 rg 42.00 509.49 Td (Funcionalidade: Auditoria e Conformidade Ambiental \(Pilar Governança ESG\)) Tj ET
+BT /F4 7.10 Tf 0.220 0.740 0.970 rg 42.00 498.69 Td (  Cenário: Registrar uma nova auditoria ambiental em conformidade com a meta municipal) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 487.89 Td (    Dado que eu possuo os dados de uma nova auditoria "AUD-005" com valor medido 1500.0 para a meta 1200.0) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 477.09 Td (    Quando eu envio uma requisição POST para "/api/auditorias-ambientais" com o payload configurado) Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 466.29 Td (    Então o status code da resposta deve ser 201) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 455.49 Td (    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/auditoria-ambiental-schema.json") Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 444.69 Td (    E o campo decimal JSON "percentual_atingimento" deve ser igual a 125.0) Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 433.89 Td () Tj ET
+BT /F4 7.10 Tf 0.980 0.750 0.140 rg 42.00 423.09 Td (  Cenário: Falha de compliance ao registrar auditoria não conforme sem plano de ação corretiva) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 412.29 Td (    Dado que eu possuo uma auditoria não conforme "AUD-006" abaixo da meta sem plano de ação corretiva) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 401.49 Td (    Quando eu envio uma requisição POST para "/api/auditorias-ambientais" com o payload configurado) Tj ET
+BT /F3 7.10 Tf 0.980 0.750 0.140 rg 42.00 390.69 Td (    Então o status code da resposta deve ser 400) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 379.89 Td (    E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json") Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 369.09 Td (    E o campo JSON "mensagem" deve conter "exigem obrigatoriamente um plano_acao_corretiva") Tj ET
+BT /F1 8.20 Tf 0.280 0.330 0.410 rg 38.00 346.29 Td (Print 2 - Cenários BDD de Governança e Compliance Ambiental em 05_auditoria_ambiental.feature) Tj ET
+0.060 0.090 0.160 rg
+0.80 w 0.200 0.250 0.330 RG
+32.00 153.09 531.28 181.20 re B
+0.120 0.160 0.240 rg
+0.60 w 0.200 0.250 0.330 RG
+32.00 316.29 531.28 18.00 re B
+0.940 0.270 0.270 rg
+40.00 322.29 6.50 6.50 re f
+0.960 0.620 0.040 rg
+50.00 322.29 6.50 6.50 re f
+0.130 0.770 0.370 rg
+60.00 322.29 6.50 6.50 re f
+BT /F4 7.60 Tf 0.820 0.870 0.950 rg 74.00 321.79 Td (src/test/resources/schemas/ponto-coleta-schema.json & EcoSmartApiSteps.java) Tj ET
+BT /F3 7.50 Tf 0.580 0.640 0.720 rg 440.78 321.79 Td (JSON Schema + RestAssured) Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 305.29 Td (// 1. Contrato JSON Schema \(src/test/resources/schemas/ponto-coleta-schema.json\):) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 294.49 Td ({ "$schema": "http://json-schema.org/draft-07/schema#", "type": "object",) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 283.69 Td (  "required": ["codigo_ponto", "tipo_residuo", "localizacao", "bairro",) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 272.89 Td (               "capacidade_litros", "nivel_ocupacao_percentual", "status"],) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 262.09 Td (  "properties": {) Tj ET
+BT /F3 7.10 Tf 0.220 0.740 0.970 rg 42.00 251.29 Td (    "nivel_ocupacao_percentual": { "type": "integer", "minimum": 0, "maximum": 100 },) Tj ET
+BT /F3 7.10 Tf 0.220 0.740 0.970 rg 42.00 240.49 Td (    "status": { "type": "string", "enum": ["ativo", "manutencao", "inativo"] }) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 229.69 Td (  }, "additionalProperties": false }) Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 218.89 Td () Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 208.09 Td (// 2. Validação Automatizada no Step Definition \(EcoSmartApiSteps.java\):) Tj ET
+BT /F4 7.10 Tf 0.220 0.740 0.970 rg 42.00 197.29 Td (@E\("o corpo da resposta deve respeitar o contrato JSON Schema {string}"\)) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 186.49 Td (public void validarContratoJsonSchema\(String schemaPath\) {) Tj ET
+BT /F4 7.10 Tf 0.290 0.870 0.500 rg 42.00 175.69 Td (    response.then\(\).assertThat\(\).body\(JsonSchemaValidator.matchesJsonSchemaInClasspath\(schemaPath\)\);) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 164.89 Td (}) Tj ET
+BT /F1 8.20 Tf 0.280 0.330 0.410 rg 38.00 142.09 Td (Print 3 - Configuração dos Contratos JSON Schema \(11 schemas\) e validação com RestAssured JsonSchemaValidator) Tj ET
+BT /F1 7.80 Tf 0.450 0.500 0.550 rg 32.00 19.89 Td (EcoSmart Waste Management - Documentação e Evidências de Testes Automatizados \(Página 2 de 3\)) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 8882 >>
+stream
+BT /F2 12.00 Tf 0.020 0.370 0.270 rg 32.00 801.89 Td (4. Evidências da Execução Bem-Sucedida dos Testes \(Maven & Cucumber Report\)) Tj ET
+0.060 0.730 0.510 rg
+32.00 796.09 531.28 1.80 re f
+0.060 0.090 0.160 rg
+0.80 w 0.200 0.250 0.330 RG
+32.00 464.29 531.28 321.60 re B
+0.120 0.160 0.240 rg
+0.60 w 0.200 0.250 0.330 RG
+32.00 767.89 531.28 18.00 re B
+0.940 0.270 0.270 rg
+40.00 773.89 6.50 6.50 re f
+0.960 0.620 0.040 rg
+50.00 773.89 6.50 6.50 re f
+0.130 0.770 0.370 rg
+60.00 773.89 6.50 6.50 re f
+BT /F4 7.60 Tf 0.820 0.870 0.950 rg 74.00 773.39 Td (PowerShell Terminal - mvn clean test \(Execução Real da Suíte BDD & API\)) Tj ET
+BT /F3 7.50 Tf 0.580 0.640 0.720 rg 499.28 773.39 Td (Exit Code: 0) Tj ET
+BT /F3 7.10 Tf 0.600 0.750 0.950 rg 42.00 756.89 Td ([INFO] Scanning for projects...) Tj ET
+BT /F4 7.10 Tf 0.600 0.750 0.950 rg 42.00 746.09 Td ([INFO] -------------< br.com.ecosmart:ecosmart-waste-management >--------------) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 735.29 Td ([INFO] Building EcoSmart Waste Management 1.0.0) Tj ET
+BT /F3 7.10 Tf 0.600 0.750 0.950 rg 42.00 724.49 Td ([INFO] --- surefire:3.2.5:test \(default-test\) @ ecosmart-waste-management ---) Tj ET
+BT /F4 7.10 Tf 0.880 0.910 0.940 rg 42.00 713.69 Td ([INFO] Running br.com.ecosmart.CucumberTestRunner) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 702.89 Td ( :: Spring Boot :: \(v3.2.5\) - Tomcat started on port 65352 \(http\) with context path '') Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 692.09 Td (Started CucumberSpringConfiguration in 2.417 seconds \(process running for 3.917\)) Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 681.29 Td () Tj ET
+BT /F4 7.10 Tf 0.220 0.740 0.970 rg 42.00 670.49 Td (Cenário: Consultar ponto de coleta ativo equipado com sensor IoT e validar contrato JSON Schema) Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 659.69 Td (  [OK] Dado que a base de dados do EcoSmart está inicializada com os registros padrões ESG) Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 648.89 Td (  [OK] Quando eu envio uma requisição GET para "/api/pontos-coleta/PC-001") Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 638.09 Td (  [OK] Então o status code da resposta deve ser 200) Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 627.29 Td (  [OK] E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/ponto-coleta-schema.json") Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 616.49 Td (...) Tj ET
+BT /F4 7.10 Tf 0.220 0.740 0.970 rg 42.00 605.69 Td (Cenário: Falha de compliance ao registrar auditoria não conforme sem plano de ação corretiva) Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 594.89 Td (  [OK] Quando eu envio uma requisição POST para "/api/auditorias-ambientais" com o payload configurado) Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 584.09 Td (  [OK] Então o status code da resposta deve ser 400) Tj ET
+BT /F3 7.10 Tf 0.290 0.870 0.500 rg 42.00 573.29 Td (  [OK] E o corpo da resposta deve respeitar o contrato JSON Schema "schemas/erro-api-schema.json") Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 562.49 Td () Tj ET
+BT /F4 7.10 Tf 0.290 0.870 0.500 rg 42.00 551.69 Td (30 Scenarios \(30 passed\)) Tj ET
+BT /F4 7.10 Tf 0.290 0.870 0.500 rg 42.00 540.89 Td (180 Steps \(180 passed\)) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 530.09 Td (0m7,029s) Tj ET
+BT /F4 7.10 Tf 0.290 0.870 0.500 rg 42.00 519.29 Td ([INFO] Tests run: 30, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.353 s -- in br.com.ecosmart.CucumberTestRunner) Tj ET
+BT /F3 7.10 Tf 0.600 0.750 0.950 rg 42.00 508.49 Td ([INFO] ------------------------------------------------------------------------) Tj ET
+BT /F4 7.10 Tf 0.290 0.870 0.500 rg 42.00 497.69 Td ([INFO] BUILD SUCCESS) Tj ET
+BT /F3 7.10 Tf 0.600 0.750 0.950 rg 42.00 486.89 Td ([INFO] ------------------------------------------------------------------------) Tj ET
+BT /F3 7.10 Tf 0.880 0.910 0.940 rg 42.00 476.09 Td ([INFO] Total time:  10.503 s | Finished at: 2026-11-03T22:47:26-03:00) Tj ET
+BT /F1 8.20 Tf 0.280 0.330 0.410 rg 38.00 453.29 Td (Print 4 - Evidência de execução no terminal com 100% de aprovação nos 30 cenários BDD e 180 passos \(BUILD SUCCESS\)) Tj ET
+0.950 0.990 0.960 rg
+1.40 w 0.090 0.640 0.290 RG
+32.00 274.29 531.28 165.00 re B
+0.080 0.500 0.240 rg
+32.00 417.29 531.28 22.00 re f
+BT /F2 9.20 Tf 1.000 1.000 1.000 rg 42.00 424.29 Td (Cucumber HTML Report - target/cucumber-reports/cucumber.html) Tj ET
+BT /F2 8.50 Tf 0.750 0.980 0.820 rg 398.28 424.29 Td (STATUS: 100% PASSED \(30/30\)) Tj ET
+1.000 1.000 1.000 rg
+0.90 w 0.530 0.940 0.670 RG
+42.00 367.29 120.32 42.00 re B
+BT /F2 14.00 Tf 0.080 0.500 0.240 rg 54.00 387.29 Td (100%) Tj ET
+BT /F2 6.50 Tf 0.250 0.320 0.380 rg 50.00 374.29 Td (TAXA DE APROVAÇÃO) Tj ET
+1.000 1.000 1.000 rg
+0.90 w 0.530 0.940 0.670 RG
+172.32 367.29 120.32 42.00 re B
+BT /F2 14.00 Tf 0.080 0.500 0.240 rg 184.32 387.29 Td (30 / 30) Tj ET
+BT /F2 6.50 Tf 0.250 0.320 0.380 rg 180.32 374.29 Td (CENÁRIOS BDD PASSANDO) Tj ET
+1.000 1.000 1.000 rg
+0.90 w 0.530 0.940 0.670 RG
+302.64 367.29 120.32 42.00 re B
+BT /F2 14.00 Tf 0.080 0.500 0.240 rg 314.64 387.29 Td (180 / 180) Tj ET
+BT /F2 6.50 Tf 0.250 0.320 0.380 rg 310.64 374.29 Td (PASSOS GHERKIN EXECUTADOS) Tj ET
+1.000 1.000 1.000 rg
+0.90 w 0.530 0.940 0.670 RG
+432.96 367.29 120.32 42.00 re B
+BT /F2 14.00 Tf 0.080 0.500 0.240 rg 444.96 387.29 Td (11 / 11) Tj ET
+BT /F2 6.50 Tf 0.250 0.320 0.380 rg 440.96 374.29 Td (SCHEMAS JSON VALIDADOS) Tj ET
+1.000 1.000 1.000 rg
+0.50 w 0.800 0.920 0.840 RG
+42.00 345.29 511.28 14.00 re B
+BT /F2 7.50 Tf 0.100 0.220 0.150 rg 48.00 349.29 Td ([OK] 01_pontos_coleta.feature - Gestão de Pontos de Coleta Inteligentes \(Pilar Ambiental ESG\)) Tj ET
+0.860 0.980 0.900 rg
+448.28 347.29 100.00 10.00 re f
+BT /F2 7.00 Tf 0.080 0.480 0.220 rg 453.28 349.79 Td (7 / 7 Cenários \(PASSED\)) Tj ET
+1.000 1.000 1.000 rg
+0.50 w 0.800 0.920 0.840 RG
+42.00 329.29 511.28 14.00 re B
+BT /F2 7.50 Tf 0.100 0.220 0.150 rg 48.00 333.29 Td ([OK] 02_coletas_agendadas.feature - Gestão de Coletas Agendadas e Rotas \(Pilar Governança ESG\)) Tj ET
+0.860 0.980 0.900 rg
+448.28 331.29 100.00 10.00 re f
+BT /F2 7.00 Tf 0.080 0.480 0.220 rg 453.28 333.79 Td (7 / 7 Cenários \(PASSED\)) Tj ET
+1.000 1.000 1.000 rg
+0.50 w 0.800 0.920 0.840 RG
+42.00 313.29 511.28 14.00 re B
+BT /F2 7.50 Tf 0.100 0.220 0.150 rg 48.00 317.29 Td ([OK] 03_usuarios_cidadaos.feature - Engajamento de Cidadãos e Recompensas \(Pilar Social ESG\)) Tj ET
+0.860 0.980 0.900 rg
+448.28 315.29 100.00 10.00 re f
+BT /F2 7.00 Tf 0.080 0.480 0.220 rg 453.28 317.79 Td (6 / 6 Cenários \(PASSED\)) Tj ET
+1.000 1.000 1.000 rg
+0.50 w 0.800 0.920 0.840 RG
+42.00 297.29 511.28 14.00 re B
+BT /F2 7.50 Tf 0.100 0.220 0.150 rg 48.00 301.29 Td ([OK] 04_cooperativas_parceiras.feature - Cooperativas Parceiras \(Pilar Social/Governança ESG\)) Tj ET
+0.860 0.980 0.900 rg
+448.28 299.29 100.00 10.00 re f
+BT /F2 7.00 Tf 0.080 0.480 0.220 rg 453.28 301.79 Td (5 / 5 Cenários \(PASSED\)) Tj ET
+1.000 1.000 1.000 rg
+0.50 w 0.800 0.920 0.840 RG
+42.00 281.29 511.28 14.00 re B
+BT /F2 7.50 Tf 0.100 0.220 0.150 rg 48.00 285.29 Td ([OK] 05_auditoria_ambiental.feature - Auditoria e Conformidade Ambiental \(Pilar Governança ESG\)) Tj ET
+0.860 0.980 0.900 rg
+448.28 283.29 100.00 10.00 re f
+BT /F2 7.00 Tf 0.080 0.480 0.220 rg 453.28 285.79 Td (5 / 5 Cenários \(PASSED\)) Tj ET
+BT /F1 8.20 Tf 0.280 0.330 0.410 rg 38.00 262.29 Td (Print 5 - Painel do Relatório HTML do Cucumber gerado em target/cucumber-reports/cucumber.html) Tj ET
+0.060 0.090 0.160 rg
+0.80 w 0.200 0.250 0.330 RG
+32.00 167.29 531.28 84.00 re B
+0.120 0.160 0.240 rg
+0.60 w 0.200 0.250 0.330 RG
+32.00 233.29 531.28 18.00 re B
+0.940 0.270 0.270 rg
+40.00 239.29 6.50 6.50 re f
+0.960 0.620 0.040 rg
+50.00 239.29 6.50 6.50 re f
+0.130 0.770 0.370 rg
+60.00 239.29 6.50 6.50 re f
+BT /F4 7.60 Tf 0.820 0.870 0.950 rg 74.00 238.79 Td (.github/workflows/ci-tests.yml & Dockerfile) Tj ET
+BT /F3 7.50 Tf 0.580 0.640 0.720 rg 490.28 238.79 Td (CI/CD & Docker) Tj ET
+BT /F3 7.10 Tf 0.500 0.580 0.680 rg 42.00 222.29 Td (# Pipeline GitHub Actions \(.github/workflows/ci-tests.yml\) + Dockerfile Multi-Stage:) Tj ET
+BT /F4 7.10 Tf 0.220 0.740 0.970 rg 42.00 211.49 Td (- name: Executar Testes Automatizados BDD e Contrato de API) Tj ET
+BT /F4 7.10 Tf 0.290 0.870 0.500 rg 42.00 200.69 Td (  run: mvn clean test -B) Tj ET
+BT /F3 7.10 Tf 0.220 0.740 0.970 rg 42.00 189.89 Td (- name: Publicar Relatório de Evidências Cucumber \(HTML & JSON\)) Tj ET
+BT /F3 7.10 Tf 0.640 0.900 0.210 rg 42.00 179.09 Td (  uses: actions/upload-artifact@v4  # path: target/cucumber-reports/) Tj ET
+BT /F1 8.20 Tf 0.280 0.330 0.410 rg 38.00 156.29 Td (Print 6 - Automação de execução contínua via GitHub Actions CI/CD e containerização Docker) Tj ET
+BT /F1 7.80 Tf 0.450 0.500 0.550 rg 32.00 19.89 Td (EcoSmart Waste Management - Documentação e Evidências de Testes Automatizados \(Página 3 de 3\)) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Type /Pages /Kids [ 6 0 R 8 0 R 10 0 R ] /Count 3 >>
+endobj
+12 0 obj
+<< /Type /Catalog /Pages 11 0 R >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000000309 00000 n 
+0000000409 00000 n 
+0000023160 00000 n 
+0000023323 00000 n 
+0000031674 00000 n 
+0000031837 00000 n 
+0000040771 00000 n 
+0000040935 00000 n 
+0000041008 00000 n 
+trailer
+<< /Size 13 /Root 12 0 R >>
+startxref
+41059
+%%EOF
